@@ -1,3 +1,3 @@
 # sampleSite
 
-A sample site
+A sample github pages site using Jekyll
